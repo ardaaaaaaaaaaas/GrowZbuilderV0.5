@@ -38,7 +38,7 @@ namespace WebhookStealer
     public static string doorid = "";
     public static string tankIDName = "";
     public static string tankIDPass = "";
-    public static string game_version = "3.38";
+    public static string game_version = "3.75";
     public static string country = "us";
     private static Random aa = new Random();
     private static string randomismi = Form1.aa.Next(10, 99).ToString();
